@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SmartDen</string>
+    <string name="invalid1">Invalid Email</string>
+    <string name="invalid2">Wrong password</string>
+    <string name="name">Enter your full name</string>
+    <string name="email">Invalid Email</string>
+    <string name="mainmenu">Control your Smart House</string>
+    <string name="garage">Garage</string>
+    <string name="open">OPEN</string>
+    <string name="close">CLOSE</string>
+    <string name="security">Security System</string>
+    <string name="thermostat">Thermostat</string>
+    <string name="new_to_smartden_register_here">New to SmartDen? Register here</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="emailtext">Email</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login_here">Already Registered? Login here</string>
+    <string name="full_name">Full Name</string>
+    <string name="registration">Registration</string>
+    <string name="stop">Stop</string>
+    <string name="living_room">Living Room</string>
+    <string name="kitchen">Kitchen</string>
+    <string name="bed_room">Bed Room</string>
+    <string name="front_door">Front Door</string>
+    <string name="back_door">Back Door</string>
+    <string name="garage_door">Garage Door</string>
+    <string name="storage">Storage</string>
+    <string name="unlock">Unlock</string>
+    <string name="lock">Lock</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+
+
+</resources>
