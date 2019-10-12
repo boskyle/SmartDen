@@ -3,6 +3,14 @@
 
 
 <h3 font color ="green">October 8,2019</h3>
+<p>Made Breadboard,PCB,Schematics Design for the following hardware modules:<br>
+	Arduino Uno R3
+	Temperature and Humidity Sensor (DHT-11)
+	Ultrasonic Distance Sensor (HC-SR04)	
+</p>
+
+
+<h3 font color ="green">October 8,2019</h3>
 <p>Safety Discussion in class. How to use equipments safely and properly.</p>
 
 
