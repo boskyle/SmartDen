@@ -7,6 +7,12 @@
 	Arduino Uno R3<br>
 	Temperature and Humidity Sensor (DHT-11)<br>
 	Ultrasonic Distance Sensor (HC-SR04)<br>
+	
+	<img src ="breadboard.JPG" alt="1"><br>
+	<img src ="schemantic.JPG" alt="2"><br>
+	<img src ="pcb.JPG" alt="3"><br>
+	
+	
 </p>
 
 
