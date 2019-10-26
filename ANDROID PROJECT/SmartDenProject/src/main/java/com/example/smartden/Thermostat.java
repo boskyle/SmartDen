@@ -41,7 +41,7 @@ public class Thermostat extends AppCompatActivity {
                     tv_simulate.post(new Runnable() {
                         @Override
                         public void run() {
-                            tv_simulate.setText(rnd_string + "°C");
+                            tv_simulate.setText(rnd_string + "°Celcius");
                             tv2_simulate.setText(rnd_string2 + "%");
                         }
                     });
