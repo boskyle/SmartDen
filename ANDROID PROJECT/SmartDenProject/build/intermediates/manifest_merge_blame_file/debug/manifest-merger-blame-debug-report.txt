@@ -6,80 +6,88 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml
+8-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml
+9-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:5:5-37:19
+11-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:5:5-42:19
 12        android:allowBackup="true"
-12-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:6:9-35
+12-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.0.1] C:\Users\Bos\.gradle\caches\transforms-2\files-2.1\72b2b92ec4ab73ff21fb9bc348de3b22\core-1.0.1\AndroidManifest.xml:22:18-86
+13-->[androidx.core:core:1.0.1] C:\Users\owner\.gradle\caches\transforms-2\files-2.1\72b2b92ec4ab73ff21fb9bc348de3b22\core-1.0.1\AndroidManifest.xml:22:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
-15-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:7:9-43
+15-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:7:9-43
 16        android:label="@string/app_name"
-16-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:8:9-41
+16-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:8:9-41
 17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:9:9-54
+17-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
-18-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:10:9-35
-19        android:theme="@style/AppTheme" >
-19-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:11:9-40
-20        <activity
-20-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:12:9-13:53
-21            android:name="com.example.smartden.Thermostat"
-21-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:12:19-45
-22            android:parentActivityName="com.example.smartden.MainMenu" />
-22-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:13:13-51
-23        <activity
-23-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:14:9-16:54
-24            android:name="com.example.smartden.security"
-24-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:15:13-37
-25            android:parentActivityName="com.example.smartden.MainMenu" />
-25-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:16:13-51
-26        <activity
-26-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:17:9-20:54
-27            android:name="com.example.smartden.lightsystem"
-27-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:18:13-40
-28            android:launchMode="singleTask"
-28-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:19:13-44
-29            android:parentActivityName="com.example.smartden.MainMenu" />
-29-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:20:13-51
+18-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:11:9-40
+21        <activity
+21-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:12:9-19:20
+22            android:name="com.example.smartden.FirstActivity"
+22-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:12:19-48
+23            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+23-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:13:13-69
+24            <intent-filter>
+24-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:14:13-18:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:15:17-69
+25-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:15:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:17:17-77
+27-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:17:27-74
+28            </intent-filter>
+29        </activity>
 30        <activity
-30-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:21:9-24:54
-31            android:name="com.example.smartden.garage"
-31-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:22:13-35
-32            android:launchMode="singleTask"
-32-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:23:13-44
-33            android:parentActivityName="com.example.smartden.MainMenu" />
-33-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:24:13-51
-34        <activity
-34-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:25:9-28:58
-35            android:name="com.example.smartden.MainMenu"
-35-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:26:13-37
-36            android:launchMode="singleTask"
-36-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:27:13-44
-37            android:parentActivityName="com.example.smartden.MainActivity" />
-37-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:28:13-55
-38        <activity android:name="com.example.smartden.RegistrationActivity" />
-38-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:29:9-58
-38-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:29:19-55
-39        <activity android:name="com.example.smartden.MainActivity" >
-39-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:30:9-36:20
-39-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:30:19-47
-40            <intent-filter>
-40-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:31:13-35:29
-41                <action android:name="android.intent.action.MAIN" />
-41-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:32:17-69
-41-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:32:25-66
-42
-43                <category android:name="android.intent.category.LAUNCHER" />
-43-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:34:17-77
-43-->C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:34:27-74
-44            </intent-filter>
-45        </activity>
-46    </application>
-47
-48</manifest>
+30-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:20:9-22:54
+31            android:name="com.example.smartden.Thermostat"
+31-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:21:13-39
+32            android:parentActivityName="com.example.smartden.MainMenu" />
+32-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:22:13-51
+33        <activity
+33-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:23:9-25:54
+34            android:name="com.example.smartden.security"
+34-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:24:13-37
+35            android:parentActivityName="com.example.smartden.MainMenu" />
+35-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:25:13-51
+36        <activity
+36-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:26:9-29:54
+37            android:name="com.example.smartden.lightsystem"
+37-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:27:13-40
+38            android:launchMode="singleTask"
+38-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:28:13-44
+39            android:parentActivityName="com.example.smartden.MainMenu" />
+39-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:29:13-51
+40        <activity
+40-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:30:9-33:54
+41            android:name="com.example.smartden.garage"
+41-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:31:13-35
+42            android:launchMode="singleTask"
+42-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:32:13-44
+43            android:parentActivityName="com.example.smartden.MainMenu" />
+43-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:33:13-51
+44        <activity
+44-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:34:9-37:58
+45            android:name="com.example.smartden.MainMenu"
+45-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:35:13-37
+46            android:launchMode="singleTask"
+46-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:36:13-44
+47            android:parentActivityName="com.example.smartden.MainActivity" />
+47-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:37:13-55
+48        <activity android:name="com.example.smartden.RegistrationActivity" />
+48-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:38:9-58
+48-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:38:19-55
+49        <activity android:name="com.example.smartden.MainActivity" >
+49-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:39:9-41:20
+49-->C:\Users\owner\Documents\GitHub\SmartDenProject\src\main\AndroidManifest.xml:39:19-47
+50        </activity>
+51    </application>
+52
+53</manifest>
