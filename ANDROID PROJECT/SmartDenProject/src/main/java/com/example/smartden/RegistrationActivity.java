@@ -16,6 +16,7 @@ public class RegistrationActivity extends AppCompatActivity {
     EditText email;
     EditText password;
     EditText fullname;
+
     public static boolean isValid(String email)
     {
         String emailRegex = "^[a-zA-Z0-9_+&*-]+(?:\\."+
