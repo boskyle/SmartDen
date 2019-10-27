@@ -76,66 +76,70 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Bo
 		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.smartden.AboutUsActivity
+ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:12:9-62
+	android:name
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:12:19-50
 activity#com.example.smartden.FirstActivity
-ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:12:9-19:20
+ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:13:9-21:20
 	android:theme
-		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:13:13-69
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:15:13-69
 	android:name
-		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:12:19-48
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:14:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:14:13-18:29
+ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:15:17-69
+ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:15:25-66
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:17:17-77
+ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:17:27-74
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:19:27-74
 activity#com.example.smartden.Thermostat
-ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:20:9-22:54
+ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:22:9-24:54
 	android:parentActivityName
-		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:22:13-51
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:24:13-51
 	android:name
-		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:21:13-39
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:23:13-39
 activity#com.example.smartden.security
-ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:23:9-25:54
+ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:25:9-27:54
 	android:parentActivityName
-		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:25:13-51
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:27:13-51
 	android:name
-		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:24:13-37
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:26:13-37
 activity#com.example.smartden.lightsystem
-ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:26:9-29:54
+ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:28:9-31:54
 	android:parentActivityName
-		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:29:13-51
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:31:13-51
 	android:launchMode
-		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:28:13-44
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:30:13-44
 	android:name
-		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:27:13-40
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:29:13-40
 activity#com.example.smartden.garage
-ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:30:9-33:54
+ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:32:9-35:54
 	android:parentActivityName
-		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:33:13-51
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:35:13-51
 	android:launchMode
-		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:32:13-44
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:34:13-44
 	android:name
-		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:31:13-35
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:33:13-35
 activity#com.example.smartden.MainMenu
-ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:34:9-37:58
+ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:36:9-39:58
 	android:parentActivityName
-		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:37:13-55
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:39:13-55
 	android:launchMode
-		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:36:13-44
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:38:13-44
 	android:name
-		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:35:13-37
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:37:13-37
 activity#com.example.smartden.RegistrationActivity
-ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:38:9-58
+ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:40:9-58
 	android:name
-		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:38:19-55
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:40:19-55
 activity#com.example.smartden.MainActivity
-ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:39:9-41:20
+ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:41:9-59
 	android:name
-		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:39:19-47
+		ADDED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml:41:19-47
 uses-sdk
 INJECTED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Bos\Documents\GitHub\SmartDen\ANDROID PROJECT\SmartDenProject\src\main\AndroidManifest.xml

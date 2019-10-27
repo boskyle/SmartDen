@@ -67,8 +67,8 @@ public class FirstActivity extends AppCompatActivity {
                         switch (menuItem.getItemId())
                         {
                             case R.id.about:
-                                intent.setData(Uri.parse("https://www.humber.ca"));
-                                startActivity(intent);
+                               Intent aboutUs = new Intent(FirstActivity.this,AboutUsActivity.class);
+                               startActivity(aboutUs);
                                 break;
                             case R.id.log_in:
                                 intent.setData(Uri.parse("https://www.dominos.ca"));
