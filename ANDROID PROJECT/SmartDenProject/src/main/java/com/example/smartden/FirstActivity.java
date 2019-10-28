@@ -71,11 +71,10 @@ public class FirstActivity extends AppCompatActivity {
                                startActivity(aboutUs);
                                 break;
                             case R.id.log_in:
-                                intent.setData(Uri.parse("https://www.dominos.ca"));
-                                startActivity(intent);
+                                Intent loginScreen = new Intent (FirstActivity.this,MainActivity.class);
+                                startActivity(loginScreen);
                                 break;
                             case R.id.contact:
-
                                 intent.setData(Uri.parse("https://www.humber.ca"));
                                 startActivity(intent);
                                 break;
