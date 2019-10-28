@@ -9,9 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AboutUsActivity"
-            android:parentActivityName=".FirstActivity">
-        </activity>
+        <activity android:name=".ContactActivty"
+            android:parentActivityName=".FirstActivity"></activity>
+        <activity
+            android:name=".AboutUsActivity"
+            android:parentActivityName=".FirstActivity"></activity>
         <activity
             android:name=".FirstActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
@@ -40,11 +42,9 @@
             android:launchMode="singleTask"
             android:parentActivityName=".MainActivity" />
         <activity android:name=".RegistrationActivity" />
-        <activity android:name=".MainActivity" android:parentActivityName=".FirstActivity">
-        </activity>
-
-
-
+        <activity
+            android:name=".MainActivity"
+            android:parentActivityName=".FirstActivity"></activity>
     </application>
 
 </manifest>

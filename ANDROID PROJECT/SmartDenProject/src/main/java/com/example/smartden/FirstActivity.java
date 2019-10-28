@@ -75,8 +75,9 @@ public class FirstActivity extends AppCompatActivity {
                                 startActivity(loginScreen);
                                 break;
                             case R.id.contact:
-                                intent.setData(Uri.parse("https://www.humber.ca"));
-                                startActivity(intent);
+
+                                Intent contactPage = new Intent (FirstActivity.this,ContactActivty.class);
+                                startActivity(contactPage);
                                 break;
                             case R.id.privacy:
                                 intent.setData(Uri.parse("https://www.humber.ca"));
