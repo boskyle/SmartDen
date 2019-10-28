@@ -30,6 +30,7 @@
     <string name="lock">Lock</string>
     <string name="temperature">Temperature</string>
     <string name="humidity">Humidity</string>
+    <string name="about_us">SmartDen is a project conceived by visionaries of a team of 3 students from Humber College. Our goal is to fully utilize a mobile device to control an entire home.</string>
 
 
 </resources>
