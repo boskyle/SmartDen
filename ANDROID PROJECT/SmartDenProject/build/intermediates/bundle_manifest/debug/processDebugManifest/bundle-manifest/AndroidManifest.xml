@@ -20,7 +20,8 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.example.smartden.AboutUsActivity"
-            android:parentActivityName="com.example.smartden.FirstActivity" />
+            android:parentActivityName="com.example.smartden.FirstActivity" >
+        </activity>
         <activity
             android:name="com.example.smartden.FirstActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
@@ -49,7 +50,10 @@
             android:launchMode="singleTask"
             android:parentActivityName="com.example.smartden.MainActivity" />
         <activity android:name="com.example.smartden.RegistrationActivity" />
-        <activity android:name="com.example.smartden.MainActivity" />
+        <activity
+            android:name="com.example.smartden.MainActivity"
+            android:parentActivityName="com.example.smartden.FirstActivity" >
+        </activity>
     </application>
 
 </manifest>
