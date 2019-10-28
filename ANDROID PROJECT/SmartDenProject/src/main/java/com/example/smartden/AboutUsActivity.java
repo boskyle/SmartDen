@@ -1,3 +1,4 @@
+/*HumberElites*/
 package com.example.smartden;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -6,7 +7,6 @@ import androidx.core.app.NavUtils;
 import android.os.Bundle;
 import android.view.MenuItem;
 
-//sam was here
 
 public class AboutUsActivity extends AppCompatActivity {
 
