@@ -31,6 +31,6 @@
     <string name="temperature">Temperature</string>
     <string name="humidity">Humidity</string>
     <string name="about_us">SmartDen is a project conceived by visionaries of a team of 3 students from Humber College. Our goal is to fully utilize a mobile device to control an entire home.</string>
-
+    <string name="policy">We use your sensors and effectors data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.</string>
 
 </resources>

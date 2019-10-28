@@ -18,6 +18,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
+            android:name="com.example.smartden.PrivacyActivity"
+            android:parentActivityName="com.example.smartden.FirstActivity" >
+        </activity>
+        <activity
             android:name="com.example.smartden.ContactActivty"
             android:parentActivityName="com.example.smartden.FirstActivity" />
         <activity
