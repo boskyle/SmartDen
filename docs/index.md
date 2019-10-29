@@ -1,6 +1,16 @@
 <html>
 <h1> SmartDen Blog </h1>
 
+<h3>October 29,2019</h3>
+
+
+
+<h3>October 22,2019 (Reading Week)</h3>
+<p>Loaded Anrduino IDE and tried the connection at home.</p><br>
+
+
+
+
 
 <h3 font color ="green">October 8,2019</h3>
 <p>Made Breadboard,PCB,Schematics Design <a href="https://github.com/boskyle/SmartDen/blob/master/documentation/CENG317_PCB_DESIGN.fzz">(Design File) </a>for the following hardware modules:<br>
@@ -11,8 +21,6 @@
 	<img src ="breadboard.JPG" alt="1"><br>
 	<img src ="schemantic.JPG" alt="2"><br>
 	<img src ="pcb.JPG" alt="3"><br>
-	
-	
 </p>
 
 
