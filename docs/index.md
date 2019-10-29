@@ -2,6 +2,8 @@
 <h1> SmartDen Blog </h1>
 
 <h3>October 29,2019</h3>
+<img src ="ceng317_week8/breadboard_connection.jpg" alt="image of breadboard connection made in lab week 8"><br>
+
 
 
 
