@@ -4331,16 +4331,17 @@ public final class R {
     public static final int secondary_text_default_material_light=0x7f05007e;
     public static final int secondary_text_disabled_material_dark=0x7f05007f;
     public static final int secondary_text_disabled_material_light=0x7f050080;
-    public static final int subBackground=0x7f050081;
-    public static final int switch_thumb_disabled_material_dark=0x7f050082;
-    public static final int switch_thumb_disabled_material_light=0x7f050083;
-    public static final int switch_thumb_material_dark=0x7f050084;
-    public static final int switch_thumb_material_light=0x7f050085;
-    public static final int switch_thumb_normal_material_dark=0x7f050086;
-    public static final int switch_thumb_normal_material_light=0x7f050087;
-    public static final int tooltip_background_dark=0x7f050088;
-    public static final int tooltip_background_light=0x7f050089;
-    public static final int yellow=0x7f05008a;
+    public static final int smart_home_launcher_background=0x7f050081;
+    public static final int subBackground=0x7f050082;
+    public static final int switch_thumb_disabled_material_dark=0x7f050083;
+    public static final int switch_thumb_disabled_material_light=0x7f050084;
+    public static final int switch_thumb_material_dark=0x7f050085;
+    public static final int switch_thumb_material_light=0x7f050086;
+    public static final int switch_thumb_normal_material_dark=0x7f050087;
+    public static final int switch_thumb_normal_material_light=0x7f050088;
+    public static final int tooltip_background_dark=0x7f050089;
+    public static final int tooltip_background_light=0x7f05008a;
+    public static final int yellow=0x7f05008b;
   }
   public static final class dimen {
     public static final int abc_action_bar_content_inset_material=0x7f060000;
@@ -5072,6 +5073,11 @@ public final class R {
   public static final class mipmap {
     public static final int ic_launcher=0x7f0d0000;
     public static final int ic_launcher_round=0x7f0d0001;
+    public static final int noun_smart_home_1829280=0x7f0d0002;
+    public static final int smart_home=0x7f0d0003;
+    public static final int smart_home_launcher=0x7f0d0004;
+    public static final int smart_home_launcher_foreground=0x7f0d0005;
+    public static final int smart_home_launcher_round=0x7f0d0006;
   }
   public static final class string {
     public static final int abc_action_bar_home_description=0x7f0e0000;

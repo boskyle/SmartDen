@@ -692,6 +692,7 @@ color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
 color secondary_text_disabled_material_light
+color smart_home_launcher_background
 color subBackground
 color switch_thumb_disabled_material_dark
 color switch_thumb_disabled_material_light
@@ -1417,6 +1418,11 @@ layout support_simple_spinner_dropdown_item
 menu drawer_view
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap noun_smart_home_1829280
+mipmap smart_home
+mipmap smart_home_launcher
+mipmap smart_home_launcher_foreground
+mipmap smart_home_launcher_round
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
