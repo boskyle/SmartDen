@@ -3,7 +3,7 @@
 
 <h3>October 29,2019</h3>
 <p>Made the breadboard connection of my hardware modules in class and displayed them in the Arduio IDE Serial Output.</p><br>
-<p>DHT-11 (Temperature & Humidity Sensor):</p><a href="https://github.com/boskyle/SmartDen/blob/master/docs/ceng317_week8/dht_11_sketch.ino">Source Code</a>
+<p>DHT-11 (Temperature & Humidity Sensor): <a href="https://github.com/boskyle/SmartDen/blob/master/docs/ceng317_week8/dht_11_sketch.ino">Source Code</a></p>
 <br>
 <p>HC-SR04 (Distance Sensor): </p> <a href="https://github.com/boskyle/SmartDen/blob/master/docs/ceng317_week8/hc-sr04_sketch.ino">Source Code</a>
 <br>
