@@ -1216,6 +1216,8 @@ id phone_icon
 id phone_number
 id pin
 id privacy
+id privacy_content
+id privacy_title
 id progress_circular
 id progress_horizontal
 id radio
@@ -1381,6 +1383,7 @@ layout activity_garage
 layout activity_lightsystem
 layout activity_main
 layout activity_main_menu
+layout activity_privacy
 layout activity_security
 layout activity_thermostat
 layout design_bottom_navigation_item
@@ -1490,6 +1493,7 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string policy
 string register
 string registration
 string search_menu_title
