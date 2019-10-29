@@ -387,14 +387,14 @@ public final class R {
         public static final int secondary_text_default_material_light = 0x7f05007e;
         public static final int secondary_text_disabled_material_dark = 0x7f05007f;
         public static final int secondary_text_disabled_material_light = 0x7f050080;
-        public static final int switch_thumb_disabled_material_dark = 0x7f050082;
-        public static final int switch_thumb_disabled_material_light = 0x7f050083;
-        public static final int switch_thumb_material_dark = 0x7f050084;
-        public static final int switch_thumb_material_light = 0x7f050085;
-        public static final int switch_thumb_normal_material_dark = 0x7f050086;
-        public static final int switch_thumb_normal_material_light = 0x7f050087;
-        public static final int tooltip_background_dark = 0x7f050088;
-        public static final int tooltip_background_light = 0x7f050089;
+        public static final int switch_thumb_disabled_material_dark = 0x7f050083;
+        public static final int switch_thumb_disabled_material_light = 0x7f050084;
+        public static final int switch_thumb_material_dark = 0x7f050085;
+        public static final int switch_thumb_material_light = 0x7f050086;
+        public static final int switch_thumb_normal_material_dark = 0x7f050087;
+        public static final int switch_thumb_normal_material_light = 0x7f050088;
+        public static final int tooltip_background_dark = 0x7f050089;
+        public static final int tooltip_background_light = 0x7f05008a;
     }
     public static final class dimen {
         private dimen() {}
