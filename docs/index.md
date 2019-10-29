@@ -5,7 +5,7 @@
 <p>Made the breadboard connection of my hardware modules in class and displayed them in the Arduio IDE Serial Output.</p><br>
 <p>DHT-11 (Temperature & Humidity Sensor): <a href="https://github.com/boskyle/SmartDen/blob/master/docs/ceng317_week8/dht_11_sketch.ino">Source Code</a></p>
 <br>
-<p>HC-SR04 (Distance Sensor):<a href="https://github.com/boskyle/SmartDen/blob/master/docs/ceng317_week8/hc-sr04_sketch.ino">Source Code</a></p> 
+<p>HC-SR04 (Distance Sensor): <a href="https://github.com/boskyle/SmartDen/blob/master/docs/ceng317_week8/hc-sr04_sketch.ino">Source Code</a></p> 
 <br><br>
 
 <img src ="ceng317_week8/breadboard_connection.jpg" alt="image of breadboard connection made in lab week 8"><br><br>
