@@ -1,6 +1,33 @@
 <html>
 <h1> SmartDen Blog </h1>
 
+<h3>October 29,2019</h3>
+<p>Made the breadboard connection of my hardware modules in class and displayed them in the Arduio IDE Serial Output.</p><br>
+<p>DHT-11 (Temperature & Humidity Sensor): <a href="https://github.com/boskyle/SmartDen/blob/master/docs/ceng317_week8/dht_11_sketch.ino">Source Code</a></p>
+<br>
+<p>HC-SR04 (Distance Sensor): <a href="https://github.com/boskyle/SmartDen/blob/master/docs/ceng317_week8/hc-sr04_sketch.ino">Source Code</a></p> 
+<br><br>
+
+<img src ="ceng317_week8/breadboard_connection.jpg" alt="image of breadboard connection made in lab week 8"><br><br>
+
+<p> <strong>DHT-11 Screenshot:</strong> </p>
+<img src = "ceng317_week8/dht_11_output.JPG" alt="dht11_ss"> <br>
+
+<p> <strong>HC-SR04 Screenshot:</strong> </p>
+<img src = "ceng317_week8/hc_sr04_output.JPG" alt="hc_sr04_ss"> <br>
+
+
+
+
+
+
+
+<h3>October 22,2019 (Reading Week)</h3>
+<p>Loaded Anrduino IDE and tried the connection at home.</p><br>
+
+
+
+
 
 <h3 font color ="green">October 8,2019</h3>
 <p>Made Breadboard,PCB,Schematics Design <a href="https://github.com/boskyle/SmartDen/blob/master/documentation/CENG317_PCB_DESIGN.fzz">(Design File) </a>for the following hardware modules:<br>
@@ -11,8 +38,6 @@
 	<img src ="breadboard.JPG" alt="1"><br>
 	<img src ="schemantic.JPG" alt="2"><br>
 	<img src ="pcb.JPG" alt="3"><br>
-	
-	
 </p>
 
 
