@@ -3,8 +3,8 @@
 
 <h3>November 5,2019</h3>
 <p>Soldered my HC-SR04 sensor to my PCB:</p>
-<img src ="ceng317_week8/sensor1_pic1.jpg" alt="image of connected hcr-s04"><br>
-<img src ="ceng317_week8/sensor1_pic2.jpg" alt="image of connected hcr-s04 (1)"><br><br>
+<img src ="sensor1_pic1.jpg" alt="image of connected hcr-s04"><br>
+<img src ="sensor1_pic2.jpg" alt="image of connected hcr-s04 (1)"><br><br>
 
 
 
