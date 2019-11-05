@@ -1,6 +1,13 @@
 <html>
 <h1> SmartDen Blog </h1>
 
+<h3>November 5,2019</h3>
+<p>Soldered my HC-SR04 sensor to my PCB:</p>
+<img src ="ceng317_week8/sensor1_pic1.jpg" alt="image of connected hcr-s04"><br>
+<img src ="ceng317_week8/sensor1_pic2.jpg" alt="image of connected hcr-s04 (1)"><br><br>
+
+
+
 <h3>October 29,2019</h3>
 <p>Made the breadboard connection of my hardware modules in class and displayed them in the Arduio IDE Serial Output.</p><br>
 <p>DHT-11 (Temperature & Humidity Sensor): <a href="https://github.com/boskyle/SmartDen/blob/master/docs/ceng317_week8/dht_11_sketch.ino">Source Code</a></p>
