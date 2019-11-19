@@ -1,5 +1,5 @@
 /*HumberElites*/
-package com.example.smartden;
+package com.example.project_source_codes;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.NavUtils;
@@ -7,12 +7,18 @@ import androidx.core.app.NavUtils;
 import android.os.Bundle;
 import android.view.MenuItem;
 
-public class ContactActivty extends AppCompatActivity {
+import smartden.project.R;
+
+
+public class AboutUsActivity extends AppCompatActivity {
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState)
+    {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_contact_activty);
+        setContentView(R.layout.activity_about_us);
+
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
 
     public boolean onOptionsItemSelected(MenuItem item)

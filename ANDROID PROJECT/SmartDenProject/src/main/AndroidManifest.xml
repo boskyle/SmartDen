@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.smartden">
+    package="smartden.project">
 
     <application
         android:allowBackup="true"
@@ -9,17 +9,17 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".PrivacyActivity"
-            android:parentActivityName=".FirstActivity">
+        <activity android:name="com.example.project_source_codes.PrivacyActivity"
+            android:parentActivityName="com.example.project_source_codes.FirstActivity">
         </activity>
         <activity
-            android:name=".ContactActivty"
-            android:parentActivityName=".FirstActivity" />
+            android:name="com.example.project_source_codes.ContactActivty"
+            android:parentActivityName="com.example.project_source_codes.FirstActivity" />
         <activity
-            android:name=".AboutUsActivity"
-            android:parentActivityName=".FirstActivity" />
+            android:name="com.example.project_source_codes.AboutUsActivity"
+            android:parentActivityName="com.example.project_source_codes.FirstActivity" />
         <activity
-            android:name=".FirstActivity"
+            android:name="com.example.project_source_codes.FirstActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,27 +28,27 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Thermostat"
-            android:parentActivityName=".MainMenu" />
+            android:name="com.example.project_source_codes.Thermostat"
+            android:parentActivityName="com.example.project_source_codes.MainMenu" />
         <activity
-            android:name=".security"
-            android:parentActivityName=".MainMenu" />
+            android:name="com.example.project_source_codes.security"
+            android:parentActivityName="com.example.project_source_codes.MainMenu" />
         <activity
-            android:name=".lightsystem"
+            android:name="com.example.project_source_codes.lightsystem"
             android:launchMode="singleTask"
-            android:parentActivityName=".MainMenu" />
+            android:parentActivityName="com.example.project_source_codes.MainMenu" />
         <activity
-            android:name=".garage"
+            android:name="com.example.project_source_codes.garage"
             android:launchMode="singleTask"
-            android:parentActivityName=".MainMenu" />
+            android:parentActivityName="com.example.project_source_codes.MainMenu" />
         <activity
-            android:name=".MainMenu"
+            android:name="com.example.project_source_codes.MainMenu"
             android:launchMode="singleTask"
-            android:parentActivityName=".MainActivity" />
-        <activity android:name=".RegistrationActivity" />
+            android:parentActivityName="com.example.project_source_codes.MainActivity" />
+        <activity android:name="com.example.project_source_codes.RegistrationActivity" />
         <activity
-            android:name=".MainActivity"
-            android:parentActivityName=".FirstActivity" />
+            android:name="com.example.project_source_codes.MainActivity"
+            android:parentActivityName="com.example.project_source_codes.FirstActivity" />
     </application>
 
 </manifest>

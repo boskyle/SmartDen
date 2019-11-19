@@ -1,11 +1,13 @@
 /*HumberElites*/
-package com.example.smartden;
+package com.example.project_source_codes;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ToggleButton;
+
+import smartden.project.R;
 
 public class lightsystem extends AppCompatActivity {
 

@@ -1,8 +1,7 @@
 /*HumberElites*/
-package com.example.smartden;
+package com.example.project_source_codes;
 
 import android.content.Intent;
-import android.net.Uri;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
@@ -14,6 +13,7 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
+import smartden.project.R;
 import com.google.android.material.navigation.NavigationView;
 
 

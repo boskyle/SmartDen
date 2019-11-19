@@ -1,5 +1,5 @@
 /*HumberElites*/
-package com.example.smartden;
+package com.example.project_source_codes;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.NavUtils;
@@ -11,6 +11,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+
+import smartden.project.R;
 
 import java.util.regex.Pattern;
 

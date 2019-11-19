@@ -1,4 +1,5 @@
-package com.example.smartden;
+/*HumberElites*/
+package com.example.project_source_codes;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.NavUtils;
@@ -6,12 +7,14 @@ import androidx.core.app.NavUtils;
 import android.os.Bundle;
 import android.view.MenuItem;
 
-public class PrivacyActivity extends AppCompatActivity {
+import smartden.project.R;
+
+public class ContactActivty extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_privacy);
+        setContentView(R.layout.activity_contact_activty);
     }
 
     public boolean onOptionsItemSelected(MenuItem item)

@@ -1,10 +1,12 @@
 /*HumberElites*/
-package com.example.smartden;
+package com.example.project_source_codes;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.widget.TextView;
+
+import smartden.project.R;
 
 import java.util.Random;
 
