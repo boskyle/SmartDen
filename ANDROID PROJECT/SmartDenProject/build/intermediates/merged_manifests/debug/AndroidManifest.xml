@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.smartden"
+    package="smartden.project"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -18,17 +18,17 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.smartden.PrivacyActivity"
-            android:parentActivityName="com.example.smartden.FirstActivity" >
+            android:name="com.example.project_source_codes.PrivacyActivity"
+            android:parentActivityName="com.example.project_source_codes.FirstActivity" >
         </activity>
         <activity
-            android:name="com.example.smartden.ContactActivty"
-            android:parentActivityName="com.example.smartden.FirstActivity" />
+            android:name="com.example.project_source_codes.ContactActivty"
+            android:parentActivityName="com.example.project_source_codes.FirstActivity" />
         <activity
-            android:name="com.example.smartden.AboutUsActivity"
-            android:parentActivityName="com.example.smartden.FirstActivity" />
+            android:name="com.example.project_source_codes.AboutUsActivity"
+            android:parentActivityName="com.example.project_source_codes.FirstActivity" />
         <activity
-            android:name="com.example.smartden.FirstActivity"
+            android:name="com.example.project_source_codes.FirstActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -37,27 +37,27 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.smartden.Thermostat"
-            android:parentActivityName="com.example.smartden.MainMenu" />
+            android:name="com.example.project_source_codes.Thermostat"
+            android:parentActivityName="com.example.project_source_codes.MainMenu" />
         <activity
-            android:name="com.example.smartden.security"
-            android:parentActivityName="com.example.smartden.MainMenu" />
+            android:name="com.example.project_source_codes.security"
+            android:parentActivityName="com.example.project_source_codes.MainMenu" />
         <activity
-            android:name="com.example.smartden.lightsystem"
+            android:name="com.example.project_source_codes.lightsystem"
             android:launchMode="singleTask"
-            android:parentActivityName="com.example.smartden.MainMenu" />
+            android:parentActivityName="com.example.project_source_codes.MainMenu" />
         <activity
-            android:name="com.example.smartden.garage"
+            android:name="com.example.project_source_codes.garage"
             android:launchMode="singleTask"
-            android:parentActivityName="com.example.smartden.MainMenu" />
+            android:parentActivityName="com.example.project_source_codes.MainMenu" />
         <activity
-            android:name="com.example.smartden.MainMenu"
+            android:name="com.example.project_source_codes.MainMenu"
             android:launchMode="singleTask"
-            android:parentActivityName="com.example.smartden.MainActivity" />
-        <activity android:name="com.example.smartden.RegistrationActivity" />
+            android:parentActivityName="com.example.project_source_codes.MainActivity" />
+        <activity android:name="com.example.project_source_codes.RegistrationActivity" />
         <activity
-            android:name="com.example.smartden.MainActivity"
-            android:parentActivityName="com.example.smartden.FirstActivity" />
+            android:name="com.example.project_source_codes.MainActivity"
+            android:parentActivityName="com.example.project_source_codes.FirstActivity" />
     </application>
 
 </manifest>

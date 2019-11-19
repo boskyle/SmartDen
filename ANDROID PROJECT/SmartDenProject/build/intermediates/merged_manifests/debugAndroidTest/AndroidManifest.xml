@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.smartden.test" >
+    package="smartden.project.test" >
 
     <uses-sdk
         android:minSdkVersion="23"
@@ -10,8 +10,8 @@
         android:name="androidx.test.runner.AndroidJUnitRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.example.smartden"
-        android:targetPackage="com.example.smartden" />
+        android:label="Tests for smartden.project"
+        android:targetPackage="smartden.project" />
 
     <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
