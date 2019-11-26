@@ -68,17 +68,19 @@
 <br>Sam Fatuga: RGB Led and has chosen the stm32 microcontroller board for demonstration.
 <br>Boswell Orendain: Ultrasonic distance sensor and Temperate and Humidity Sensor and has chosen the arduino uno r3 microcontroller board.
 <br>Hoang Phuc(Bobby) Quad Half H-Bride motor driver and has chosen to work on the raspberry pi.
+<br>Budget: <a href="https://github.com/boskyle/SmartDen/blob/master/documentation/SmartDen_Budget.pdf">CLICK_HERE</a>
 </p><br><br>
 
 
 <h3 font color="green">September 17,2019</h3>
-<p>Discussing amongst project members which hardware modules we should pick/work on.</p><br>
+<p>Discussing amongst project members which hardware modules we should pick/work on.<br>Schedule: <a href="https://github.com/boskyle/SmartDen/blob/master/documentation/smartDenGantt.pdf">CLICK_HERE</a></p><br>
+
 
 
 
 
 <h3 font color="green">September 10,2019</h3>
-<p>Received hardware modules we should focus on and space the project is going to be built on from hardware professor (Kristian Medri) & partner company "Makerkids" CEO (Jennifer Turliuk).<br>Discussed with software professor(Haki Sharifi) the functionalities of the mobile application based on our target audience and hardware modules given.<br>Created a project repository: <a href="https://github.com/boskyle/SmartDen">SmartDen.</a><br>Proposal link:<a href="https://github.com/boskyle/SmartDen/blob/master/documentation/ProposalContentStudentNameRev02.pdf">PROPOSAL_HERE</a></p><br><br>
+<p>Received hardware modules we should focus on and space the project is going to be built on from hardware professor (Kristian Medri) & partner company "Makerkids" CEO (Jennifer Turliuk).<br>Discussed with software professor(Haki Sharifi) the functionalities of the mobile application based on our target audience and hardware modules given.<br>Created a project repository: <a href="https://github.com/boskyle/SmartDen">SmartDen.</a><br>Proposal link: <a href="https://github.com/boskyle/SmartDen/blob/master/documentation/ProposalContentStudentNameRev02.pdf">CLICK HERE</a></p><br><br>
 
 <br>
 
