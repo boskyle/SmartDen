@@ -2,9 +2,11 @@
 <h1> SmartDen Blog </h1>
 
 
-<h3>November26,2019</h3>
+<h3>November 26,2019</h3>
 <p>Presentation day where I had to present my: proposal,budget,schedule, enclosure (live demo), and previous knowledge learned!
 <br> Presenation slides used: <a href="https://github.com/boskyle/SmartDen/blob/master/documentation/CENG317%20Presentaiton.pptx">CLICK_HERE</a>
+</p>
+
 
 
 
