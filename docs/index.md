@@ -1,10 +1,20 @@
 <html>
 <h1> SmartDen Blog </h1>
 
+
+<h3>November26,2019</h3>
+
+
+
+
+
+
+
+
+
+
 <h3>November 5,2019</h3>
-<p>Soldered my HC-SR04 sensor to my PCB:</p>
-<img src ="sensor1_pic1.jpg" alt="image of connected hcr-s04"><br>
-<img src ="sensor1_pic2.jpg" alt="image of connected hcr-s04 (1)"><br><br>
+<p>During this week I realized that my first made PCB was not going to work as it will get a short..<br>So I had to get made a new one!</p>
 
 
 
