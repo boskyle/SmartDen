@@ -10,11 +10,16 @@
 
 
 
+<h3>November 19,2019 </h3>
+<p>I finally got my PCB to start working and here is the enclosure: </p><br><br>
+<img src = "ceng317_week11/enc_1.jpg" alt="pic1"> <br>
+<img src = "ceng317_week11/enc_2.jpg" alt="pic2"> <br>
+<img src = "ceng317_week11/enc_3.jpg" alt="pic3"> <br>
 
 
-
-
-
+<h3>November 12, 2019</h3>
+<p>PCB is powered up but I had no readings from my Distance Sensor (HC-SR04) so I had to debug it and found out that some of my via points<br>that connects
+from bottom to top layer are not connected at all. So this took the weekend for me to debug and solve.</p>
 
 
 <h3>November 5,2019</h3>
