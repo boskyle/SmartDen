@@ -78,7 +78,8 @@
 
 
 <h3 font color="green">September 10,2019</h3>
-<p>Received hardware modules we should focus on and space the project is going to be built on from hardware professor (Kristian Medri) & partner company "Makerkids" CEO (Jennifer Turliuk).<br>Discussed with software professor(Haki Sharifi) the functionalities of the mobile application based on our target audience and hardware modules given.<br>Created a project repository: <a href="https://github.com/boskyle/SmartDen">SmartDen.</a></p><br><br>
+<p>Received hardware modules we should focus on and space the project is going to be built on from hardware professor (Kristian Medri) & partner company "Makerkids" CEO (Jennifer Turliuk).<br>Discussed with software professor(Haki Sharifi) the functionalities of the mobile application based on our target audience and hardware modules given.<br>Created a project repository: <a href="https://github.com/boskyle/SmartDen">SmartDen.</a><br>Proposal: <a href="https://github.com/boskyle/SmartDen/blob/master/documentation/ProposalContentStudentNameRev02.pdf"></a></p><br><br>
+
 <br>
 
 <h3 font color="green">September 3,2019</h3>
