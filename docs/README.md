@@ -5,7 +5,12 @@
 	<!-- Bill of components here (individual or package?)-->
 <p>The materials came with a kit I had previously bought prior to this course.</p>
 <img src = "proof_of_purchase.JPG" alt="kit1"> <br>
-<br><br><p>If you want to buy the parts individually then: <br>
+<br><p>If you want to buy the parts individually then: <br>
+
+Modules 	  | Price $(CAD)
+------------- | -------------
+Temperate and Humidity Sensor (DHT-11)| Content Cell
+Distance Sensor (HC-SR04) | Content Cell
 
 
 </p>
