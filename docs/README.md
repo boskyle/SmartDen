@@ -7,13 +7,12 @@
 <img src = "proof_of_purchase.JPG" alt="kit1"> <br>
 <br><p>If you want to buy the parts individually then: <br>
 
-Modules 	  | Unit Price $(CAD) | Total Price | 
-------------- | -------------| -------------|
-Arduino Uno R3 | 26.99 |
-Temperate and Humidity Sensor (DHT-11)| 5.19|
+Modules 	  | Unit Price $(CAD) | Total Cost | Link |
+------------- | -------------| -------------| -------------|
+Arduino Uno R3 | 26.99 | | <a href="https://www.robotshop.com/ca/en/arduino-uno-r3-usb-microcontroller.html?gclid=CjwKCAiA8qLvBRAbEiwAE_ZzPcuDfbbajj1NVcvjjOGzziY92sE-PeEQv9CsHTed9Sek-rWy40W3QBoCD2sQAvD_BwE">BUY</a>
+Temperate and Humidity Sensor (DHT-11)| 5.19| |
 Distance Sensor (HC-SR04) | 6.55 | 38.73
-				| Total Price
-------------- 	| -------------|
+
 			
 
 
