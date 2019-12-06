@@ -12,6 +12,8 @@ Modules 	  | Unit Price $(CAD) | Total Price |
 Arduino Uno R3 | 26.99 |
 Temperate and Humidity Sensor (DHT-11)| 5.19|
 Distance Sensor (HC-SR04) | 6.55 | 38.73
+				Total Price
+			| ------------- |
 
 
 </p>
