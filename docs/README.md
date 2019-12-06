@@ -4,9 +4,9 @@
 <h1>Bill of Materials/Budget</h1><br>
 	<!-- Bill of components here (individual or package?)-->
 <p>The materials came with a kit I had previously bought prior to this course.</p>
-<img src = "proof_of_purchase.jpg" alt="kit1"> <br>
+<img src = "proof_of_purchase.JPG" alt="kit1"> <br>
 <br><br><p>If you want to buy the parts individually then: <br>
-	
+
 
 </p>
 
