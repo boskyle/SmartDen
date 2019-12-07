@@ -1,6 +1,6 @@
 <h1>Introduction</h1><br>
-	<!-- System Diagram here-->
-
+<img src ="ceng317_readMe_images/system_diagram.jpeg" alt="sys_diag_image"> <br>
+	
 <h1>Bill of Materials/Budget</h1><br>
 	<!-- Bill of components here (individual or package?)-->
 <p>The materials came with a kit I had previously bought prior to this course.</p>
@@ -14,8 +14,6 @@ Temperate and Humidity Sensor (DHT-11)| 5.19| | <a href="https://www.robotshop.c
 Distance Sensor (HC-SR04) | 6.55 | 38.73 |  <a href="https://www.robotshop.com/ca/en/hc-sr04-ultrasonic-range-finder-osepp.html">BUY</a>
 
 			
-
-
 </p>
 
 <h1>Time Commitment</h1><br>
