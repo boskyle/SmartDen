@@ -18,6 +18,10 @@ Distance Sensor (HC-SR04) | 6.55 | 38.73 |  <a href="https://www.robotshop.com/c
 
 <h1>Time Commitment</h1><br>
 	<!--Time expected to finis this?-->
+	Task 	  | Time to Commit| 
+------------- | -------------| 
+Breadboard Connection + Testing Modules Readings with Arduino IDE | 1-2 hours |
+
 
 <h1>Mechanical Assembly</h1><br>
 <p>Follow the breadbord connection to test if each sensors are working properly.</p>
