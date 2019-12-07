@@ -47,6 +47,8 @@ Arduino and PCB Case Made | 1 hour |
 <img src="ceng317_readMe_images/attached.jpeg" width="500px" height="500px"><br>
 
 <h1>Power Up</h1><br>
+<img src="ceng317_readMe_images/power_up2.jpeg" width="500px" height="500px"><br>
+<img src="ceng317_readMe_images/power_up.jpeg" width="500px" height="500px"><br>
 
 <h1>Unit Testing</h1><br>
 
