@@ -24,10 +24,9 @@ Distance Sensor (HC-SR04) | 6.55 | 38.73 |  <a href="https://www.robotshop.com/c
 <img src="breadboard.JPG" alt="bb_image_fzz" width="600px" height="300px"> 
 <img src="ceng317_week8/breadboard_connection.jpg" alt="bb_actual" width="600px" height="300px"> <br>
 
-
-
-
 <h1>PCB/Soldering</h1><br>
+<p>Download the fritzing file here: <a href="https://github.com/boskyle/SmartDen/blob/master/documentation/CENG317_PCB_DESIGN.fzz">(Design File)</a> so you can get it printed.</p> <br>
+<img src="pcb.JPG" alt="pcb_design_img"><br>
 
 <h1>Power Up</h1><br>
 
