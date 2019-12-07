@@ -21,8 +21,8 @@ Distance Sensor (HC-SR04) | 6.55 | 38.73 |  <a href="https://www.robotshop.com/c
 
 <h1>Mechanical Assembly</h1><br>
 <p>Follow the breadbord connection to test if each sensors are working properly.</p>
-<img src="breadboard.JPG" alt="bb_image_fzz"> <br>
-<img src="ceng317_week8/breadboard_connection.jpg" alt="bb_actual"> <br>
+<img src="breadboard.JPG" alt="bb_image_fzz" width="300px" height="300px"> 
+<img src="ceng317_week8/breadboard_connection.jpg" alt="bb_actual" width="300px" height="300px"> <br>
 
 
 
