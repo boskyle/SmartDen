@@ -19,9 +19,11 @@ Distance Sensor (HC-SR04) | 6.55 | 38.73 |  <a href="https://www.robotshop.com/c
 <h1>Time Commitment</h1><br>
 	<!--Time expected to finis this?-->
 
-Tasks | Time Expected to finish | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Tasks | Time Expected to finish | 
+--- | --- | 
 Breadboard Connection + Testing Modules Readings with Arduino IDE | 1-2 hours |
+PCB Soldering | 4-6 hours |
+
 
 
 
@@ -40,8 +42,6 @@ Breadboard Connection + Testing Modules Readings with Arduino IDE | 1-2 hours |
 <img src="ceng317_readMe_images/bottom_layer.jpeg" width="500px" height="500px"> <br>
 <p><strong>Attached to the Arduino Uno R3:</strong></p>
 <img src="ceng317_readMe_images/attached.jpeg" width="500px" height="500px"><br>
-
-
 
 <h1>Power Up</h1><br>
 
