@@ -1,4 +1,7 @@
 <h1>Introduction</h1><br>
+
+<p>I a member of HumberElites( with Sam Fatuga and Hoang Phuc) for our capstone project "SmartDen"<br> where we make  a smarthome model for a company called "MakerKids". This model has various sensors that would be read and <br> and manipulated through an Android Device. My contribution is, for now, to make the humidity & temperature sensor, and distance sensor to be functional and working on a printed circuit board so that it ready to be integrated to the smarthome model for the next semester.
+</p>
 <img src ="ceng317_readMe_images/system_diagram.jpeg" alt="sys_diag_image"> <br>
 	
 <h1>Bill of Materials/Budget</h1><br>
