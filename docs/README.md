@@ -32,14 +32,26 @@ Arduino and PCB Case Made | 1 hour |
 
 <h1>Mechanical Assembly</h1><br>
 <p>Follow the breadbord connection to test if each sensors are working properly.</p>
-<P>Use these source codes to the each hardware modules respectively and upload them to the arduino using Arduino IDE</p><br>
-<b>dht-11 (temp & humidity sensor) source code</b>:<a href="https://github.com/boskyle/SmartDen/blob/master/docs/ceng317_week8/dht_11_sketch.ino">CODE</a>
+<P>Use these source codes to the each hardware modules respectively and upload them to the arduino using Arduino IDE:</p><br>
 
-<b>hc-sr04 (distance sensor) source code</b>:<a href="https://github.com/boskyle/SmartDen/blob/master/docs/ceng317_week8/dht_11_sketch.ino">CODE</a>
+<b>Arduino IDE download</b>:<a href="https://www.arduino.cc/en/main/software"> CLICK HERE</a>
+<b>dht-11 (temp & humidity sensor) source code</b>:<a href="https://github.com/boskyle/SmartDen/blob/master/docs/ceng317_week8/dht_11_sketch.ino"> CODE</a>
+
+<b>hc-sr04 (distance sensor) source code</b>:<a href="https://github.com/boskyle/SmartDen/blob/master/docs/ceng317_week8/dht_11_sketch.ino"> CODE</a>
 
 
 <img src="breadboard.JPG" alt="bb_image_fzz" width="600px" height="300px"> 
 <img src="ceng317_week8/breadboard_connection.jpg" alt="bb_actual" width="600px" height="300px"> <br>
+
+<p>Sensors readings connected with the breadboard should look like this:</p><br>
+<b>DHT-11 Readings: </b>
+<img src ="ceng317_week8/dht_11_output.JPG" alt="bb_dht_readings" width="400px" height="400px">
+
+<b>HC-SR04 Readings: </b>
+<img src ="ceng317_week8/hc_sr04_output.JPG" alt="bb_hc-sr04_readings" width="400px" height="400px">
+
+<br>
+
 
 <h1>PCB/Soldering</h1><br>
 <p>Download the fritzing file here: <a href="https://github.com/boskyle/SmartDen/blob/master/documentation/CENG317_PCB_DESIGN.fzz">(Design File)</a> so you can get it printed.</p> <br>
