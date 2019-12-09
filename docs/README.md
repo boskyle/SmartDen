@@ -55,7 +55,7 @@ Arduino and PCB Case Made | 1 hour |
 
 <h1>PCB/Soldering</h1><br>
 <p>Download the fritzing file here: <a href="https://github.com/boskyle/SmartDen/blob/master/documentation/CENG317_PCB_DESIGN.fzz">(Design File)</a> so you can get it printed.<br>
-<strong>PCB Software to open the file:</strong> <a href="https://fritzing.org/"></a>
+<strong>PCB Software to open the file:</strong> <a href="https://fritzing.org/">CLICK_HERE</a><br>
 You will need 2x four pin headers so that your hardware modules can be inserted. <br>
 - The pins of both headers would be sticking out to the bottom layer and the headers should be to the top layer.<br>
 - See the picture below for reference.
