@@ -45,10 +45,10 @@ Arduino and PCB Case Made | 1 hour |
 
 <p>Sensors readings connected with the breadboard should look like this:</p><br>
 <b>DHT-11 Readings: </b>
-<img src ="ceng317_week8/dht_11_output.JPG" alt="bb_dht_readings" width="400px" height="400px">
+<img src ="ceng317_week8/dht_11_output.JPG" alt="bb_dht_readings">
 
 <b>HC-SR04 Readings: </b>
-<img src ="ceng317_week8/hc_sr04_output.JPG" alt="bb_hc-sr04_readings" width="400px" height="400px">
+<img src ="ceng317_week8/hc_sr04_output.JPG" alt="bb_hc-sr04_readings">
 
 <br>
 
