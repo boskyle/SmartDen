@@ -79,8 +79,7 @@ You will need 2x four pin headers so that your hardware modules can be inserted.
 <b>DHT-11 Readings: </b>
 <img src ="unit_testing_dht-11.JPG" alt="pcb_dht_readings">
 <b>HC-SR04 Readings: </b>
-<img src ="unit_testing_dht-11.JPG" alt="pcb_hc-sr04_readings">
-<img src="unit_testing_hc-sr04.JPG"><br>
+<img src="unit_testing_hc-sr04.JPG" alt="pcb_hc-sr04_readings"><br>
 
 <h1>Production Testing </h1><br>
 
