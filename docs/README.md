@@ -34,7 +34,7 @@ Arduino and PCB Case Made | 1 hour |
 <p>Follow the breadbord connection to test if each sensors are working properly.</p>
 <P>Use these source codes to the each hardware modules respectively and upload them to the arduino using Arduino IDE:</p><br>
 
-<b>Arduino IDE download</b>:<a href="https://www.arduino.cc/en/main/software"> CLICK HERE</a>
+<b>Arduino IDE download</b>:<a href="https://www.arduino.cc/en/main/software"> CLICK HERE</a> <br>
 <b>dht-11 (temp & humidity sensor) source code</b>:<a href="https://github.com/boskyle/SmartDen/blob/master/docs/ceng317_week8/dht_11_sketch.ino"> CODE</a>
 
 <b>hc-sr04 (distance sensor) source code</b>:<a href="https://github.com/boskyle/SmartDen/blob/master/docs/ceng317_week8/dht_11_sketch.ino"> CODE</a>
@@ -54,10 +54,15 @@ Arduino and PCB Case Made | 1 hour |
 
 
 <h1>PCB/Soldering</h1><br>
-<p>Download the fritzing file here: <a href="https://github.com/boskyle/SmartDen/blob/master/documentation/CENG317_PCB_DESIGN.fzz">(Design File)</a> so you can get it printed.</p> <br>
+<p>Download the fritzing file here: <a href="https://github.com/boskyle/SmartDen/blob/master/documentation/CENG317_PCB_DESIGN.fzz">(Design File)</a> so you can get it printed.<br>
+<strong>PCB Software to open the file:</strong> <a href="https://fritzing.org/"></a>
+You will need 2x four pin headers so that your hardware modules can be inserted. <br>
+- The pins of both headers would be sticking out to the bottom layer and the headers should be to the top layer.<br>
+- See the picture below for reference.
+</p> <br>
 <p><strong>PCB Design:</strong></p>
 <img src="pcb.JPG" alt="pcb_design_img" width="500px" height="500px">
-<p><strong>Top Layer:</strong></p>
+<p><strong>Top Layer:</strong><br></p>
 <img src="ceng317_readMe_images/top_layer.jpeg" width="500px" height="500px">
 <p><strong>Bottom Layer:</strong></p>
 <img src="ceng317_readMe_images/bottom_layer.jpeg" width="500px" height="500px"> <br>
@@ -69,6 +74,10 @@ Arduino and PCB Case Made | 1 hour |
 <img src="ceng317_readMe_images/power_up.jpeg" width="500px" height="500px"><br>
 
 <h1>Unit Testing</h1><br>
+<p>Test each hardware units when connected to your PCB if they are working properly.</p>
+<img src="ceng317_readMe_images/power_up2.jpeg" width="500px" height="500px"><br>
+<img src="ceng317_readMe_images/power_up.jpeg" width="500px" height="500px"><br>
+
 
 <h1>Production Testing </h1><br>
 
