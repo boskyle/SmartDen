@@ -83,14 +83,14 @@ You will need 2x four pin headers so that your hardware modules can be inserted.
 
 <h1>Production Testing </h1><br>
 
-<p> Test hardware units with enclosure: </p><br>
+
 
 <b>You can laser cut the same case as mine:</b> <a href="https://github.com/boskyle/SmartDen/blob/master/documentation/boswell2.cdr">case file</a><br>OR
 <br>
 <b>Make your own.</b><br>
 <img src="ceng317_week11/enc_3.jpg" alt="inside_case" width="300px" height="500px"><br>
 
-<p>Test each hardware units when connected to your PCB and enclosed if they are working properly:</p> <br>
+<p> Test hardware units with enclosure: </p><br>
 <img src="ceng317_week11/enc_1.jpg" alt="inside_case" width="300px" height="500px"><br>
 
 <b>DHT-11 Readings: </b>
