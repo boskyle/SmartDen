@@ -5,7 +5,7 @@
 	<!-- Bill of components here (individual or package?)-->
 <p>The materials came with a kit I had previously bought prior to this course.</p>
 <img src = "proof_of_purchase.JPG" alt="kit1"> <br>
-<b>BUY:</b><a href="https://www.amazon.ca/Smraza-Tutorials-Compatible-MEGA2560-Components/dp/B06XXYVWVJ/ref=sr_1_1?crid=2TJTIQLIE7IXL&keywords=smraza+super+starter+kit+for&qid=1575915253&sprefix=smraza+start%2Caps%2C188&sr=8-1"> CLICK_HERE</a>
+<b>Link:</b><a href="https://www.amazon.ca/Smraza-Tutorials-Compatible-MEGA2560-Components/dp/B06XXYVWVJ/ref=sr_1_1?crid=2TJTIQLIE7IXL&keywords=smraza+super+starter+kit+for&qid=1575915253&sprefix=smraza+start%2Caps%2C188&sr=8-1"> BUY</a>
 <br><p>If you want to buy the parts individually then: <br>
 
 Modules 	  | Unit Price $(CAD) | Total Cost | Link |
