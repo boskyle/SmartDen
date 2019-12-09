@@ -93,3 +93,7 @@ You will need 2x four pin headers so that your hardware modules can be inserted.
 <p>Test each hardware units when connected to your PCB and enclosed if they are working properly:</p> <br>
 <img src="ceng317_week11/enc_1.jpg" alt="inside_case" width="300px" height="500px"><br>
 
+<b>DHT-11 Readings: </b>
+<img src ="production_testing_dht-11.JPG" alt="pcb_dht_readings">
+<b>HC-SR04 Readings: </b>
+<img src="production_testing_hc-sr04.JPG" alt="pcb_hc-sr04_readings"><br>
