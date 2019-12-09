@@ -28,7 +28,7 @@ Tasks | Time Expected to finish |
 Breadboard Connection + Testing Modules Readings with Arduino IDE | 1-2 hours |
 PCB Soldering | 4-6 hours |
 PCB Power Up | 30 minutes - 1 hour |
-Arduino and PCB Case Made | 1 hour |
+PCB Case Made | 1 hour |
 
 
 
